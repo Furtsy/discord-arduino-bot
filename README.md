@@ -2,4 +2,5 @@
 <a href="https://nodei.co/npm/johnny-five/"><img src="https://nodei.co/npm/johnny-five.png"></a>
 [![Arduino'yu discordan yönetmek || Managing Arduino from discord](https://yt-embed.herokuapp.com/embed?v=LwxyHwsbQwo)](https://www.youtube.com/watch?v=LwxyHwsbQwo "Arduino'yu discordan yönetmek || Managing Arduino from discord")
 <pre> <b><a data-test="test" rel="nofollow" style="word-wrap: break-word;" target="_blank" onclick="return dhExternallinkRedirect(this)" href="https://discord.gg/peFGuU3 ">Discord Server | Discord Sunucum</a></b>    
+</pre>
 [url=https://hizliresim.com/MB07JJ][img]https://i.hizliresim.com/MB07JJ.png[/img][/url]
