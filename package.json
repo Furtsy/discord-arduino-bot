@@ -1,0 +1,30 @@
+{
+  "name": "arduino-discord",
+  "version": "1.0.0",
+  "description": "Managing-Arduino-from-discord",
+  "main": "main.js",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "cli-table": "^0.3.1",
+    "discord.js": "^11.6.4",
+    "johnny-five": "^1.4.0",
+    "serialport": "^9.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Furtsy/managing-arduino-from-discord.git"
+  },
+  "keywords": [
+    "discord.js"
+  ],
+  "author": "Furtsy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Furtsy/managing-arduino-from-discord/issues"
+  },
+  "homepage": "https://github.com/Furtsy/managing-arduino-from-discord#readme"
+}
