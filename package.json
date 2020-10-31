@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Furtsy/managing-arduino-from-discord.git"
+    "url": "git+https://github.com/Furtsy/discord-arduino-bot.git"
   },
   "keywords": [
     "discord.js"
@@ -24,7 +24,7 @@
   "author": "Furtsy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Furtsy/managing-arduino-from-discord/issues"
+    "url": "https://github.com/Furtsy/discord-arduino-bot/issues"
   },
-  "homepage": "https://github.com/Furtsy/managing-arduino-from-discord#readme"
+  "homepage": "https://github.com/Furtsy/discord-arduino-bot#readme"
 }
