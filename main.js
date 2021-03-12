@@ -1,12 +1,11 @@
 const Discord = require('discord.js');
-const five = require('johnny-five');
 const client = new Discord.Client();
-const { Board, Thermometer } = require("johnny-five");
+const { Board, Thermometer, Led, Piezo } = require("johnny-five");
 const AsciiTable = require("ascii-table");
 const board = new Board();
 board.on("ready", () => {
-	const led = new five.Led(13);
-	const piezo = new five.Piezo(3);
+	const led = new Led(13);
+	const piezo = new Piezo(3);
 	const thermometer = new Thermometer({
 		controller: "LM35",
 		pin: "A0"
