@@ -6,7 +6,7 @@
   "dependencies": {
     "ascii-table": "^0.0.9",
     "cli-table": "^0.3.1",
-    "discord.js": "^11.6.4",
+    "discord.js": "^12.4.0",
     "johnny-five": "^1.4.0",
     "serialport": "^9.0.0"
   },
